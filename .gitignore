@@ -1,2 +1,2 @@
-./express-project/node_modules
-./npm-project/node_modules
+/express-project/node_modules
+/npm-project/node_modules
